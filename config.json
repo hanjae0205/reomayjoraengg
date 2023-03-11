@@ -1,0 +1,8 @@
+{
+  "modules": [
+    "ping",
+    "teach",
+    "forget"
+  ],
+  "token": "token"
+}
